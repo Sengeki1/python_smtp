@@ -17,5 +17,4 @@ mail.send(sender,
           app_password, 
           receiver,
           "Test",
-          body,
-          "./test.txt")
+          body)
