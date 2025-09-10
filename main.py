@@ -9,7 +9,7 @@ app_password = os.getenv("APP_PASSWORD")
 receiver = os.getenv("EMAIL_RECEIVER")
 
 body = """
-Hello from Python
+Hello World from Python :)
 """
 
 mail = MAIL()
